@@ -1,2 +1,3 @@
 # VMs
-Vms TP réseau
+Voici les VMs TP réseau.
+
