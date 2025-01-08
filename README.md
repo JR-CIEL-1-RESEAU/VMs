@@ -6,8 +6,7 @@ Voici les VMs TP réseau:
  - login : root
  - mdp : root
   ### Kali Linux 
- - *Telecharger* [kali](https://drive.google.com/file/d/1dBWMyRVcnUfaU7GyOiFqJHLIp1gt6lWT/view?usp=sharing)
-       ***version avec (docker & docker-compose)***
+ - *Telecharger* [kali](https://drive.google.com/file/d/1wrSEe1hMKAeLpy0oveLUmqpuAzXqSh3J/view?usp=sharing)
  - login : kali
  - mdp : kali
   ### Windows10
