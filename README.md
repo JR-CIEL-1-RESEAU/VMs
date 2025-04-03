@@ -13,4 +13,8 @@ Voici les VMs TP réseau:
  - *Telecharger* [Windows10](https://drive.google.com/file/d/1s6kG2R4zfSpTPlU0-m1-08JQIar65kKi/view?usp=drive_link)
  - login : snir
  - mdp : snir
+  ### Metasploitable2-Linux
+ - *Telecharger* [Metasploitable2-Linux](https://drive.google.com/file/d/1ADk4NjSp5n2ehvnr5fI5stRvHUDpoNtk/view?usp=drive_link)
+ - login : msfadmin
+ - mdp : msfadmin
 
